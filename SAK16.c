@@ -6,6 +6,7 @@ Solution(3): Using for Loop */
 int main()
 {
     int num,i;
+    printf("Enter a number: ");
     scanf("%d",&num);
 
     printf("\n Multiplication Table of %d \n",num);
